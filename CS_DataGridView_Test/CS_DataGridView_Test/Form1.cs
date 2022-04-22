@@ -110,5 +110,18 @@ namespace CS_DataGridView_Test
         {
             dataGridView1.Rows.RemoveAt(1);
         }
+
+        private void button7_Click(object sender, EventArgs e)//修改/改變 已經存在資料列內的資料內容
+        {
+            int index = dataGridView1.SelectedRows[0].Index;//取得被選取的第一列旗標位置
+            dataGridView1.Rows[index].Cells[0].Value = imageList1.Images[m_intCount % 5];
+            dataGridView1.Rows[index].Cells[1].Value = "DATA:" + m_intCount;
+            m_intCount++;
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)//在整列(整行)選取模式情況，判斷哪個欄位被觸發點擊事件
+        {
+            MessageBox.Show("X:" + e.RowIndex + "Y:" + e.ColumnIndex);
+        }
     }
 }

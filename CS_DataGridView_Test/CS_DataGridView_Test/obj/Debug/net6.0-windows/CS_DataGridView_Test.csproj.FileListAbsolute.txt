@@ -1,0 +1,17 @@
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\obj\Debug\net6.0-windows\CS_DataGridView_Test.csproj.AssemblyReference.cache
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\obj\Debug\net6.0-windows\CS_DataGridView_Test.Form1.resources
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\obj\Debug\net6.0-windows\CS_DataGridView_Test.csproj.GenerateResource.cache
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\obj\Debug\net6.0-windows\CS_DataGridView_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\obj\Debug\net6.0-windows\CS_DataGridView_Test.AssemblyInfoInputs.cache
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\obj\Debug\net6.0-windows\CS_DataGridView_Test.AssemblyInfo.cs
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\obj\Debug\net6.0-windows\CS_DataGridView_Test.csproj.CoreCompileInputs.cache
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\bin\Debug\net6.0-windows\CS_DataGridView_Test.exe
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\bin\Debug\net6.0-windows\CS_DataGridView_Test.deps.json
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\bin\Debug\net6.0-windows\CS_DataGridView_Test.runtimeconfig.json
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\bin\Debug\net6.0-windows\CS_DataGridView_Test.dll
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\bin\Debug\net6.0-windows\CS_DataGridView_Test.pdb
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\obj\Debug\net6.0-windows\CS_DataGridView_Test.dll
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\obj\Debug\net6.0-windows\refint\CS_DataGridView_Test.dll
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\obj\Debug\net6.0-windows\CS_DataGridView_Test.pdb
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\obj\Debug\net6.0-windows\CS_DataGridView_Test.genruntimeconfig.cache
+C:\Users\devel\Desktop\CS_DataGridView_Test\CS_DataGridView_Test\obj\Debug\net6.0-windows\ref\CS_DataGridView_Test.dll
